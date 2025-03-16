@@ -1,0 +1,7 @@
+C:\Users\perro\OneDrive\Escritorio\Patrones de diseño\CafeteriaV2(object pool y Builder)\bin\Debug\CafeteriaV2(object pool y Builder).exe.config
+C:\Users\perro\OneDrive\Escritorio\Patrones de diseño\CafeteriaV2(object pool y Builder)\bin\Debug\CafeteriaV2(object pool y Builder).exe
+C:\Users\perro\OneDrive\Escritorio\Patrones de diseño\CafeteriaV2(object pool y Builder)\bin\Debug\CafeteriaV2(object pool y Builder).pdb
+C:\Users\perro\OneDrive\Escritorio\Patrones de diseño\CafeteriaV2(object pool y Builder)\obj\Debug\CafeteriaV2(object pool y Builder).csproj.AssemblyReference.cache
+C:\Users\perro\OneDrive\Escritorio\Patrones de diseño\CafeteriaV2(object pool y Builder)\obj\Debug\CafeteriaV2(object pool y Builder).csproj.CoreCompileInputs.cache
+C:\Users\perro\OneDrive\Escritorio\Patrones de diseño\CafeteriaV2(object pool y Builder)\obj\Debug\CafeteriaV2(object pool y Builder).exe
+C:\Users\perro\OneDrive\Escritorio\Patrones de diseño\CafeteriaV2(object pool y Builder)\obj\Debug\CafeteriaV2(object pool y Builder).pdb
